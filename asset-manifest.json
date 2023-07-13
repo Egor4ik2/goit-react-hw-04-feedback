@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Egor4ik2/goit-react-hw-04-feedback/static/css/main.6c9bb756.css",
+    "main.js": "/Egor4ik2/goit-react-hw-04-feedback/static/js/main.60097374.js",
+    "index.html": "/Egor4ik2/goit-react-hw-04-feedback/index.html",
+    "main.6c9bb756.css.map": "/Egor4ik2/goit-react-hw-04-feedback/static/css/main.6c9bb756.css.map",
+    "main.60097374.js.map": "/Egor4ik2/goit-react-hw-04-feedback/static/js/main.60097374.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c9bb756.css",
+    "static/js/main.60097374.js"
+  ]
+}
